@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/Administrator/PycharmProjects/tensorflowCNNSaveandcall/model/flower/model.ckpt"
+all_model_checkpoint_paths: "C:/Users/Administrator/PycharmProjects/tensorflowCNNSaveandcall/model/flower/model.ckpt"
